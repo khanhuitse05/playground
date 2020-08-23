@@ -63,3 +63,6 @@ A list of my commonly used Git commands
 | `git merge [source branch] [target branch]` | Merge a branch into a target branch |
 | `git stash` | Stash changes in a dirty working directory |
 | `git stash clear` | Remove all stashed entries |
+
+### TODO
+https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-tag
