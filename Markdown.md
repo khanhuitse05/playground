@@ -1,3 +1,4 @@
+[mastering-markdown](https://guides.github.com/features/mastering-markdown/)
 
 # Title1
 ## Title2
@@ -39,7 +40,7 @@ Numbered list:
   2. rinse
   3. repeat
   
-  An [example](http://example.com).
+ [example short link](http://example.com).
 
 ![Image](Icon-pictures.png "icon")
 

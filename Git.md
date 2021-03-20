@@ -1,7 +1,14 @@
 # Git Commands
 A list of my commonly used Git commands
 
-
+### Quick merge
+```
+1, press "i" (i for insert)
+2, write your merge message
+3, press "esc" (escape)
+4, write ":wq" (write & quit)
+5, then press enter
+```
 
 ### Clone
 
