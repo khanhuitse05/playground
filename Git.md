@@ -10,6 +10,13 @@ A list of my commonly used Git commands
 5, then press enter
 ```
 
+### Merge master
+```
+git checkout dmgr2      # gets you "on branch dmgr2"
+git fetch origin        # gets you up to date with origin
+git merge origin/master
+```
+
 ### Clone
 
 	git clone ssh://git@github.com/[username]/[repository-name].git
