@@ -70,3 +70,14 @@ Quy trình
 23. Từ khoá Assert
 - Dùng trong quá trình lập trình. Sữ dụng Assert nếu trả về false thì sẽ thông báo và throw exception. Giúp cho biết rỏ lỗi và message và tránh lỗi hoặc input không mong muốn sau khi release app. Có thể là lỗi logic hoặc crash
 
+24. Row và Collumn. Khi nào thì dùng mainAxisAlignment và crossAxisAlignment
+
+25. Tại sao lại sử dụng từ khoá Mixins
+
+26. Flutter widget có 1 param là Key. Khi nào thì cần dùng.
+- Sử dụng để phân biệt các widget
+- Sử dụng khi muốn thêm, xoá hoặc sắp xếp 1 danh sách widget
+
+27. Profile là như thế nào?
+- Được sử dụng để đo performance của app. Giữ lại những thứ cần thiết để đo. và đảm bảo app chạy tương được như Release mode
+
